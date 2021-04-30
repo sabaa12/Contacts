@@ -10,6 +10,9 @@
     },
     {
       "url": "https://github.com/jincod/dotnetcore-buildpack"
+    },
+    {
+      "url": "https://github.com/noliar/dotnet-buildpack"
     }
   ]
 }
