@@ -3,7 +3,7 @@
   "description": "Demo app on ASP.NET Core",
   "repository": "https://github.com/sabaa12/Contacts",
   "keywords": [ "aspnet", "core" ],
-  "stack": "heroku-16",
+  "stack": "heroku-18",
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs"
