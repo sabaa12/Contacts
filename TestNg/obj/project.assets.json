@@ -5736,11 +5736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saba\\Source\\Repos\\ContactsTest\\TestNg\\TestNg\\TestNg.csproj",
+      "projectUniqueName": "C:\\Users\\saba\\source\\repos\\TestNg2\\TestNg\\TestNg.csproj",
       "projectName": "TestNg",
-      "projectPath": "C:\\Users\\saba\\Source\\Repos\\ContactsTest\\TestNg\\TestNg\\TestNg.csproj",
+      "projectPath": "C:\\Users\\saba\\source\\repos\\TestNg2\\TestNg\\TestNg.csproj",
       "packagesPath": "C:\\Users\\saba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saba\\Source\\Repos\\ContactsTest\\TestNg\\TestNg\\obj\\",
+      "outputPath": "C:\\Users\\saba\\source\\repos\\TestNg2\\TestNg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
